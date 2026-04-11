@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>thfuran</name>
+    <name>4HFuran</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>http://4hfuran.github.io/</id>
   <link href="http://4hfuran.github.io/" rel="alternate"/>
   <link href="http://4hfuran.github.io/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, thfuran</rights>
+  <rights>All rights reserved 2026, 4HFuran</rights>
   <subtitle>醉不成环惨将别，别时茫茫环浸月</subtitle>
   <title>四氢呋喃的博客</title>
   <updated>2026-02-10T06:47:12.189Z</updated>
   <entry>
     <author>
-      <name>thfuran</name>
+      <name>4HFuran</name>
     </author>
     <category term="杂谈" scheme="http://4hfuran.github.io/categories/%E6%9D%82%E8%B0%88/"/>
     <category term="VibeCoding" scheme="http://4hfuran.github.io/tags/VibeCoding/"/>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <author>
-      <name>thfuran</name>
+      <name>4HFuran</name>
     </author>
     <category term="colorscheme" scheme="http://4hfuran.github.io/tags/colorscheme/"/>
     <category term="THF" scheme="http://4hfuran.github.io/tags/THF/"/>
